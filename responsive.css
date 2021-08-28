@@ -1,0 +1,72 @@
+/*スマホ対応*/
+
+@media (max-width:780px){
+
+header{
+  position: fixed;
+  z-index: 1000;
+  top:0;
+}
+
+.container{
+  margin:16px;
+}
+
+.topicFlex{
+  display:block;
+}
+
+.topic{
+  width:100%;
+}
+
+
+.flex{
+  display:block;
+}
+
+.main{
+  width:100%;
+}
+
+.aside{
+  width:100%;
+}
+
+#pickup{
+  height:auto;
+}
+
+.option{
+  display:block;
+}
+
+.about{
+  width:100%;
+}
+
+.text{
+  margin-bottom:30px;
+}
+
+
+.menu{
+  width:100%;
+}
+
+.twitter{
+  width:100%;
+  margin:0 auto;
+}
+
+footer{
+  height:auto;
+}
+
+.option section{
+  padding-bottom:50px;
+}
+
+
+
+}
